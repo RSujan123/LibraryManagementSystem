@@ -111,7 +111,7 @@ Git & GitHub
 
 ⚙️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/library-management-system-jdbc.git
+git clone https://github.com/RSujan123/libraryManagementSystem.git
 2️⃣ Create Database
 
 Open MySQL and run:
@@ -138,14 +138,6 @@ Update credentials:
 String url = "jdbc:mysql://localhost:3306/library_db";
 String username = "your_username";
 String password = "your_password";
-4️⃣ Add MySQL Connector
-
-Download MySQL JDBC Driver:
-
-https://dev.mysql.com/downloads/connector/j/
-
-Add the mysql-connector-j.jar to your project dependencies.
-
 5️⃣ Run the Application
 
 Run:
